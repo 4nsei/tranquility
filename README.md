@@ -1,4 +1,4 @@
-# tranquility
+# Tranquility
 - No Installations 💾
 - 100% Free 🔥
 - No Key System 🔑
