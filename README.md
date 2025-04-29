@@ -4,4 +4,4 @@
 - for now you can use HerbertV1 cause that works pretty sure
 
 ## how will it work?
-still thinking abt methods
+still thinking abt methods without trying to steal methods from other things
