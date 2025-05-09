@@ -1,6 +1,6 @@
 --[[
 getting vars later
-yes if u cant tell this is FilteringDisabled by x0r4ev3r and HerbertV1 by LuaGunsX but my version
+yes if u cant tell this is FilteringDisabled by x0r4ev3r (no longer exists) and HerbertV1 by LuaGunsX but my version
 ]]--
 local network = game:GetService("NetworkClient")
 local oldnet = network:FindFirstChild("ReplicationSettings")
